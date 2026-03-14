@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro:wght@300;400;500;600;700;800&display=swap');
+
+body {
+  font-family: 'Be Vietnam Pro', sans-serif;
+  background-color: #020617; /* slate-950 */
+  color: #e2e8f0; /* slate-200 */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.gradient-text {
+  background: linear-gradient(to right, #60a5fa, #a78bfa);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.hero-bg {
+    background-image: radial-gradient(circle at top, rgba(59, 130, 246, 0.15) 0%, rgba(2, 6, 23, 0) 40%);
+}
